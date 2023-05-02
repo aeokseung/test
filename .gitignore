@@ -1,9 +1,17 @@
 HELP.md
 .gradle
+<<<<<<< HEAD
+=======
+*.yml
+>>>>>>> 08d4214fbe618f3e2463281abcaddf529c362b3a
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
+<<<<<<< HEAD
+=======
+application.yml
+>>>>>>> 08d4214fbe618f3e2463281abcaddf529c362b3a
 
 ### STS ###
 .apt_generated
@@ -17,6 +25,10 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 08d4214fbe618f3e2463281abcaddf529c362b3a
 ### IntelliJ IDEA ###
 .idea
 *.iws
